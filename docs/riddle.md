@@ -30,7 +30,7 @@ understanding of the programs from a cryptographic and security point of view, e
    [quickstart guide to Sapphire confidential smart contracs][oasis-sapphire-quickstart]. 💎
 
 4. After you're done with both tutorials, it's time to solve the riddle! You can find it at
-   `0xTODO` on [Oasis Sapphire Testnet][oasis-explorer-testnet]. 
+   `0xTODO` on [Oasis Sapphire Testnet][oasis-explorer]. 
    
    Use the following contract ABI:
 
@@ -56,6 +56,5 @@ function claimReward(string memory coupon) external view returns (string memory)
 [oasis-discord]: https://oasis.io/discord
 [ethereum-tutorial]: https://ethereum.org/en/developers/tutorials/hello-world-smart-contract-fullstack/
 [oasis-sapphire-quickstart]: https://docs.oasis.io/dapp/sapphire/quickstart
-[oasis-explorer-testnet]: https://testnet.explorer.sapphire.oasis.dev/
-[oasis-explorer]: https://explorer.sapphire.oasis.io/
+[oasis-explorer]: https://explorer.oasis.io/
 [bitcoin-map]: https://map.bitcoin.com

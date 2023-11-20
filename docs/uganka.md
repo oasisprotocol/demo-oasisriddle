@@ -36,7 +36,7 @@ vidika varnosti in kriptografske rešitve so cenjene vrline. 🤓
    Oasis Sapphire][oasis-sapphire-quickstart]. 💎
 
 4. Pametna pogodba uganke počiva na verigi
-   [Oasis Sapphire Testnet][oasis-explorer-testnet], in sicer na naslovu
+   [Oasis Sapphire Testnet][oasis-explorer], in sicer na naslovu
    `0x4874c1EC02c122Dfb29C994264dFCC4aD9FA8b96`. ABI pogodbe je naslednji:
 
 ```solidity
@@ -64,6 +64,5 @@ function claimReward(string memory coupon) external view returns (string memory)
 [oasis-discord]: https://oasis.io/discord
 [ethereum-tutorial]: https://ethereum.org/en/developers/tutorials/hello-world-smart-contract-fullstack/
 [oasis-sapphire-quickstart]: https://docs.oasis.io/dapp/sapphire/quickstart
-[oasis-explorer-testnet]: https://testnet.explorer.sapphire.oasis.dev/
-[oasis-explorer]: https://explorer.sapphire.oasis.io/
+[oasis-explorer]: https://explorer.oasis.io/
 [bitcoin-map]: https://map.bitcoin.com
